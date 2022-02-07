@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T11:18:50.453Z" agent="5.0 (Windows)" etag="nsArZV28UMyZS3Ftlvka" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T17:31:56.456Z" agent="5.0 (Windows)" etag="XLXhmbg0ZtOjXukDYRkw" version="16.5.3" type="github">
   <diagram id="0lEvnF8Sal37e7WfYS06" name="Page-1">
     <mxGraphModel dx="2500" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
         <mxCell id="hz45Fdqmzx_y_wAs_0d5-34" value="udma_core" style="shape=umlFrame;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=none;width=80;height=30;align=left;" parent="1" vertex="1">
           <mxGeometry x="160" y="900" width="610" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="hz45Fdqmzx_y_wAs_0d5-36" value="ethernet_mac" style="shape=umlFrame;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=none;width=100;height=30;align=left;" parent="1" vertex="1">
+        <mxCell id="hz45Fdqmzx_y_wAs_0d5-36" value="eth_mac_1g_rgmii_fifo" style="shape=umlFrame;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=none;width=160;height=30;align=left;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="760" height="240" as="geometry" />
         </mxCell>
         <mxCell id="hz45Fdqmzx_y_wAs_0d5-35" value="&lt;div style=&quot;font-size: 8px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 8px&quot; color=&quot;#990000&quot;&gt;udma_eth_&lt;br&gt;frame&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=none;width=50;height=40;align=center;direction=west;strokeColor=#990000;" parent="1" vertex="1">
