@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T16:44:36.525Z" agent="5.0 (Windows)" etag="iw0pITrXybHa_bnUJAQJ" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T20:03:21.750Z" agent="5.0 (Windows)" etag="X8TUjWr_4ivqMj_IqlhF" version="18.0.4" type="github">
   <diagram id="mLPpQYJzLz1xqzUndZVS" name="Page-1">
-    <mxGraphModel dx="1778" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8U_8XwLauRsZ4ZYQqi3w-3" value="Programmable Logic Device" style="shape=umlFrame;whiteSpace=wrap;html=1;width=210;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=default;swimlaneFillColor=#ffffff;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="8U_8XwLauRsZ4ZYQqi3w-3" value="Programmable Logic Device" style="shape=umlFrame;whiteSpace=wrap;html=1;width=250;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=default;swimlaneFillColor=#ffffff;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="50" y="220" width="820" height="830" as="geometry" />
         </mxCell>
-        <mxCell id="9wRkoVYpAe7Pgj8xl5cS-29" value="RISC-V based Microcontroller SoC" style="shape=umlFrame;whiteSpace=wrap;html=1;width=240;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#FFFFFF;swimlaneFillColor=#E0F0FF;direction=west;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="9wRkoVYpAe7Pgj8xl5cS-29" value="RISC-V based Microcontroller SoC" style="shape=umlFrame;whiteSpace=wrap;html=1;width=320;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#FFFFFF;swimlaneFillColor=#E0F0FF;direction=west;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="80" y="540" width="760" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="8U_8XwLauRsZ4ZYQqi3w-2" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Gigabit Ethernet MAC&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=170;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#FFFFFF;swimlaneFillColor=#ECFFD9;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="8U_8XwLauRsZ4ZYQqi3w-2" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Gigabit Ethernet MAC&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=210;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#FFFFFF;swimlaneFillColor=#ECFFD9;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="760" height="240" as="geometry" />
         </mxCell>
         <mxCell id="9wRkoVYpAe7Pgj8xl5cS-7" value="" style="group;fillColor=none;fontSize=15;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="200" y="60" width="400" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="9wRkoVYpAe7Pgj8xl5cS-1" value="Ethernet PHY Device" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#FFFFFF;swimlaneFillColor=#F5F4F7;fontSize=15;" parent="9wRkoVYpAe7Pgj8xl5cS-7" vertex="1">
+        <mxCell id="9wRkoVYpAe7Pgj8xl5cS-1" value="Ethernet PHY Device" style="shape=umlFrame;whiteSpace=wrap;html=1;width=210;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#FFFFFF;swimlaneFillColor=#F5F4F7;fontSize=15;" parent="9wRkoVYpAe7Pgj8xl5cS-7" vertex="1">
           <mxGeometry width="360" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9wRkoVYpAe7Pgj8xl5cS-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;RJ-45&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F7F2FF;fontSize=15;" parent="9wRkoVYpAe7Pgj8xl5cS-7" vertex="1">
